@@ -1,0 +1,13 @@
+{
+    "microsoft/AirSim": 175,
+    "microsoft/ContosoAir": 0,
+    "microsoft/AirSim-NeurIPS2019-Drone-Racing": 27,
+    "microsoft/AirSim-Drone-Racing-VAE-Imitation": 3,
+    "microsoft/AirSim-Drone-Racing-Lab": 15,
+    "microsoft/AIReferenceArchitectures": 5,
+    "microsoft/AirSim-Drone-Racing-Lab-Source": 2,
+    "microsoft/apache-airflow-microsoft-fabric-plugin": 5,
+    "microsoft/AirbandData": 1,
+    "microsoft/airflow-providers-microsoft-fabric": 0,
+    "microsoft/woodgrove-airline": 2
+}
